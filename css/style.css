@@ -77,6 +77,11 @@ footer.page-footer {
   width: 60%;
 }
 
+
+#modal2{
+  width: 60%;
+}
+
 #photos {
   /* Prevent vertical gaps */
   line-height: 1; 
